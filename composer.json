@@ -1,11 +1,11 @@
 {
   "name": "lamanweb/bookcafe",
-  "description": "Dropship Bookcafe",
+  "description": "Bookcafe Dropship Script",
   "version": "1.0.0",
   "type": "library",
-  "keyword": "bookcafe, dropship, bco",
+  "keyword": "dropship",
   "homepage": "https://www.lamanweb.com",
-  "time": "2019-05-22",
+  "time": "2019-06-26",
   "license": "MIT",
   "authors": [
     {
