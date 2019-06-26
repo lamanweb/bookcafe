@@ -17,7 +17,7 @@
   ],
   "require": {
         "eftec/bladeone": "*dev-master",
-		"php" : "^7.0",
+		"php" : "^7.0"
   }
   "autoload": {
         "psr-4": {
