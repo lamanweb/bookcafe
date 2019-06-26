@@ -18,7 +18,7 @@
   "require": {
         "eftec/bladeone": "*",
 		"php" : "^7.0"
-  }
+  },
   "autoload": {
         "psr-4": {
             "lamanweb\\bookcafe\\": ""
