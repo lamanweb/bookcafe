@@ -2,7 +2,7 @@
 
 namespace lamanweb\bookcafe;
 
-class Request extends API
+class Request extends Dropship
 {
   const TYPE_NONE   = 0;
   const TYPE_ALPHA  = 1;
